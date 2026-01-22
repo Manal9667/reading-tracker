@@ -141,6 +141,11 @@ vercel
 2. Set build command: `npm run build`
 3. Set publish directory: `dist`
 
+## 🚧 In Progress
+
+- Building a Node.js backend with MongoDB to support user authentication and cross-device sync  
+- Exploring backend architecture patterns, API design, and database modeling through hands-on development
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
